@@ -1,0 +1,21 @@
+{  "name": "estime-app",  "private": true,  "version": "0.1.0",  "type": "commonjs",
+  "scripts": {
+    "tauri": "tauri",
+    "build:api": "pkg src-tauri/src/main.js --output network-api --targets node16-win-x64 --public",
+    "dev": "npm run build:api && tauri dev",
+    "build": "npm run build:api && tauri build",
+    "start:api": "node src-tauri/src/main.js"
+  },
+  "devDependencies": {
+    "@tauri-apps/cli": "^2",
+    "pkg": "^5.8.1",
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "@tauri-apps/api": "^2.0.0",
+    "body-parser": "^1.20.3",
+    "cors": "^2.8.5",
+    "express": "^4.21.2",
+    "ws": "^8.18.2"
+  }
+}
