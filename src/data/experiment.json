@@ -1,0 +1,285 @@
+[{
+	"label": "Entraînement : Interface et Indicateurs",
+	"next": false,
+	"value": "training",
+	"children": [
+		{
+			"label": "<b>Tâche 1: </b>Selectionnez trois créneaux horaires de votre choix sur le selecteur de temps.<br><br>",
+			"howto": [
+				"<p style='text-align:left'>Suivez les instructions suivantes :</p>",
+				"<p style='text-align:left'>- Cliquez sur <b>Play</b>, à gauche du selecteur de temps.<br>", 
+				"<p style='text-align:left'>- Inclinez la tablette de gauche à droite et inversement pour positionner le point sur créneau horaire de votre choix.<br>",
+				"<p style='text-align:left'>- Dès que vous avez bien placé le point, cliquez sur <b>Pause</b>.<br>",
+				"<p style='text-align:left'>- Répétez les étapes ci-dessus pour les trois créneaux horaires.<br>"
+			],
+			"next": false,
+			"index": 1
+		},
+		{
+			"label": "<b>Tâche 2: </b>Affichez sur la tablette la carte de densité de présence de la région grenobloise sur 24h00.<br><br>",
+			"howto": [
+				"<p style='text-align:left'>Suivez les instructions suivantes :</p>",
+				"<p style='text-align:left'>- Affichez la fenêtre du tableau de bord des indicateurs (en cliquant sur la croix dans le menu). Choisissez d'afficher les visualisations sur le controller (tablette), en cliquant sur la flèche gauche si nécessaire. Le mode d'affichage est inscrit en haut à gauche de la fenêtre du tableau de bord.<br>", 
+				"<p style='text-align:left'>- Cliquez sur <b>Indicators</b> et après sur <b>Presence Density</b>.<br>",
+				"<p style='text-align:left'>- Selectionnez <b>Region</b> et <b>Over 24 Hours</b>.<br>",
+				"<p style='text-align:left'>- Cliquez sur OK.<br>"
+			],
+			"next": false,
+			"index": 2
+		},
+		{
+			"label": "<b>Tâche 3: </b>Affichez la valeur de densité du secteur 5.<br><br>",
+			"howto": [
+				"<p style='text-align:left'>Suivez les instructions suivantes :</p>",
+				"<p style='text-align:left'>- Cliquez sur le secteur 5 directement sur la carte.<br>"
+			],
+			"next": false,
+			"index": 3
+		},
+		{
+			"label": "<b>Tâche 4: </b>Affichez sur la tablette la carte de densité de présence de la région grenobloise à différents créneaux horaires.<br><br>",
+			"howto": [
+				"<p style='text-align:left'>Suivez les instructions suivantes :</p>",
+				"<p style='text-align:left'>- Affichez la fenêtre du tableau de bord des indicateurs (en cliquant sur la croix dans le menu). Choisissez d'afficher les visualisations sur le controller (tablette), en cliquant sur la flèche gauche si nécessaire. Le mode d'affichage est inscrit en haut à gauche de la fenêtre du tableau de bord.<br>", 
+				"<p style='text-align:left'>- Cliquez sur <b>Indicators</b> et après sur <b>Presence Density</b>.<br>",
+				"<p style='text-align:left'>- Selectionnez <b>Region</b> et <b>Per Period</b>.<br>",
+				"<p style='text-align:left'>- Cliquez sur OK.<br>"
+			],
+			"next": false,
+			"index": 4
+		},
+		{
+			"label": "<b>Tâche 5: </b>Répresentez les changements de densité de présence au cours de la journée.<br><br>",
+			"howto": [
+				"<p style='text-align:left'>Suivez les instructions suivantes :</p>",
+				"<p style='text-align:left'>- Cliquez sur <b>Play</b>, à gauche du selecteur de temps.<br>", 
+				"<p style='text-align:left'>- Inclinez la tablette de gauche à droite et inversement pour sélectionner des différents créneaux horaires.<br>"
+			],
+			"next": false,
+			"index": 5
+		},
+		{
+			"label": "<b>Tâche 6: </b>Affichez sur votre dashboard la carte de taux de migration de la région grenobloise sur 24h00.<br><br>",
+			"howto": [
+				"<p style='text-align:left'>Suivez les instructions suivantes :</p>",
+				"<p style='text-align:left'>- Affichez la fenêtre du tableau de bord des indicateurs (en cliquant sur la croix dans le menu). Choisissez d'afficher les visualisations sur le dashboard (écran ordinateur), en cliquant sur la flèche droite si nécessaire. Le mode d'affichage est inscrit en haut à gauche de la fenêtre du tableau de bord.<br>", 
+				"<p style='text-align:left'>- Cliquez sur <b>Indicators</b> et après sur <b>Fluctuation Rate</b>.<br>",
+				"<p style='text-align:left'>- Sélectionnez <b>Region</b> et <b>Over 24 Hours</b>.<br>",
+				"<p style='text-align:left'>- Cliquez sur OK.<br>"
+			],
+			"next": false,
+			"index": 6
+		},
+		{
+			"label": "<b>Tâche 7: </b>Zoomez sur la carte affichée sur le dashboard.<br><br>",
+			"howto": [
+				"<p style='text-align:left'>Suivez les instructions suivantes :</p>",
+				"<p style='text-align:left'>- Cliquez sur <b>Map Role</b>, cliquez sur <b>Pan and Zoom</b> et puis sur <b>Fluctuation Rate</b>.<br>",
+				"<p style='text-align:left'>- Utilisez la tablette pour zoomer sur la carte en pinçant avec vos doigts.<br>"
+			],
+			"next": false,
+			"index": 7
+		},
+		{
+			"label": "<b>Tâche 8: </b>Affichez sur la tablette la carte de taux de migration de la région grenobloise à différents créneaux horaires.<br><br>",
+			"howto": [
+				"<p style='text-align:left'>Suivez les instructions suivantes :</p>",
+				"<p style='text-align:left'>- Affichez la fenêtre du tableau de bord des indicateurs (en cliquant sur la croix dans le menu). Choisissez d'afficher les visualisations sur le controller (tablette), en cliquant sur la flèche gauche si nécessaire. Le mode d'affichage est inscrit en haut à gauche de la fenêtre du tableau de bord.<br>", 
+				"<p style='text-align:left'>- Cliquez sur <b>Indicators</b> et après sur <b>Fluctuation Rate</b>.<br>",
+				"<p style='text-align:left'>- Sélectionnez <b>Region</b> et <b>Per Period</b>.<br>",
+				"<p style='text-align:left'>- Cliquez sur OK.<br>"
+			],
+			"next": false,
+			"index": 8
+		},
+		{
+			"label": "<b>Tâche 9: </b>Répresentez les changements de taux de migration au cours de la journée.<br><br>",
+			"howto": [
+				"<p style='text-align:left'>Suivez les instructions suivantes :</p>",
+				"<p style='text-align:left'>- Cliquez sur <b>Play</b>, à gauche du selecteur de temps.<br>", 
+				"<p style='text-align:left'>- Inclinez la tablette de gauche à droite et vice versa pour sélectionner des différents créneaux horaires.<br>"
+			],
+			"next": false,
+			"index": 9
+		},
+		{
+			"label": "<b>Tâche 10: </b>Affichez sur la tablette la carte d'attractivité de la région grenobloise.<br><br>",
+			"howto": [
+				"<p style='text-align:left'>Suivez les instructions suivantes :</p>",
+				"<p style='text-align:left'>- Affichez la fenêtre du tableau de bord des indicateurs (en cliquant sur la croix dans le menu). Choisissez d'afficher les visualisations sur le controller (tablette), en cliquant sur la flèche gauche si nécessaire. Le mode d'affichage est inscrit en haut à gauche de la fenêtre du tableau de bord.<br>", 
+				"<p style='text-align:left'>- Cliquez sur <b>Indicators</b> et après sur <b>Attractiveness</b>.<br>",
+				"<p style='text-align:left'>- Sélectionnez <b>Region</b> et <b>Over 24 Hours</b>.<br>",
+				"<p style='text-align:left'>- Cliquez sur OK.<br>"
+			],
+			"next": false,
+			"index": 10
+		},
+		{
+			"label": "<b>Task 11: </b>Affichez la roue des déplacements pour toute la région grenobloise sur une des fenêtres de votre dashboard.<br><br>",
+			"howto": [
+				"<p style='text-align:left'>Suivez les instructions suivantes :</p>",
+				"<p style='text-align:left'>- Affichez la fenêtre du tableau de bord des indicateurs (en cliquant sur la croix dans le menu). Choisissez d'afficher les visualisations sur le dashboard (écran ordinateur), en cliquant sur la flèche droite si nécessaire. Le mode d'affichage est inscrit en haut à gauche de la fenêtre du tableau de bord.<br>",
+				"<p style='text-align:left'>- Cliquez sur <b>Indicators</b> et après sur <b>Displacement Wheel</b>.<br>", 
+				"<p style='text-align:left'>- Selectionnez <b>Region</b> et <b>Over 24 Hours</b>.<br>",
+				"<p style='text-align:left'>- Cliquez sur OK.<br>"
+			],
+			"next": false,
+			"index": 11
+		},
+		{
+			"label": "<b>Task 12: </b>Affichez la distribution de modes de déplacements à trois périodes de votre choix.<br><br>",
+			"howto": [
+				"<p style='text-align:left'>Suivez les instructions suivantes :</p>",
+				"<p style='text-align:left'>- Cliquez sur <b>Picker Role</b> et sélectionnez <b>Open Modes Charts</b>.<br>",
+				"<p style='text-align:left'>- Sur le bouton à droite de la timeline, choisissez <b>Region</b>.<br>", 
+				"<p style='text-align:left'>- Cliquez directement sur le rectangle qui correspond au créneau horaire de votre choix pour ouvrir un graphique.<br>"
+			],
+			"next": false,
+			"index": 12
+		},
+		{
+			"label": "<b>Task 13: </b>Affichez sur votre dashboard le diagramme de flux pour toute la région sur 24h00.<br><br>",
+			"howto": [
+				"<p style='text-align:left'>Suivez les instructions suivantes :</p>",
+				"<p style='text-align:left'>- Affichez la fenêtre du tableau de bord des indicateurs (en cliquant sur la croix dans le menu). Choisissez d'afficher les visualisations sur le dashboard (écran ordinateur), en cliquant sur la flèche droite si nécessaire. Le mode d'affichage est inscrit en haut à gauche de la fenêtre du tableau de bord.<br>",
+				"<p style='text-align:left'>- Cliquez sur <b>Indicators</b> et après sur <b>Flows</b>.<br>", 
+				"<p style='text-align:left'>- Selectionnez <b>Region</b> et <b>Over 24 Hours</b>.<br>",
+				"<p style='text-align:left'>- Cliquez sur OK.<br>"
+			],
+			"next": false,
+			"index": 13
+		},
+		{
+			"label": "<b>Task 14: </b>Sélectionnez les flux entrants et sortants liés à trois secteurs de votre choix sur le diagramme de flux.<br><br>",
+			"howto": [
+				"<p style='text-align:left'>Suivez les instructions suivantes :</p>",
+				"<p style='text-align:left'>- Cliquez sur <b>Map Role</b> et sélectionnez <b>Flows Interaction</b>.<br>",
+				"<p style='text-align:left'>- Choisissez les secteurs directement sur la carte.<br>"
+			],
+			"next": false,
+			"index": 14
+		},
+		{
+			"label": "<b>Task 15: </b>Affichez sur votre dashboard le diagramme de flux à différents créneaux horaires pour les secteurs 2, 3, 32, 90, 84 et 5.<br><br>",
+			"howto": [
+				"<p style='text-align:left'>Suivez les instructions suivantes :</p>",
+				"<p style='text-align:left'>- Affichez la fenêtre du tableau de bord des indicateurs (en cliquant sur la croix dans le menu). Choisissez d'afficher les visualisations sur le dashboard (écran ordinateur), en cliquant sur la flèche droite si nécessaire. Le mode d'affichage est inscrit en haut à gauche de la fenêtre du tableau de bord.<br>",
+				"<p style='text-align:left'>- Cliquez sur <b>Indicators</b> et après sur <b>Flows</b>.<br>", 
+				"<p style='text-align:left'>- Sélectionnez <b>Per Sector</b> et <b>Per Period</b>.<br>",
+				"<p style='text-align:left'>- Sélectionnez les secteurs donnés sur la carte et soumettez votre requête (en cliquant sur <b>Submit</b>).<br>"
+			],
+			"next": false,
+			"index": 15
+		},
+		{
+			"label": "<b>Tâche 16: </b>Répresentez les changements dans les flux entre les secteurs 2, 3, 32, 90, 84 et 5 au cours de la journée.<br><br>",
+			"howto": [
+				"<p style='text-align:left'>Suivez les instructions suivantes :</p>",
+				"<p style='text-align:left'>- Cliquez sur <b>Play</b>, à gauche du selecteur de temps.<br>", 
+				"<p style='text-align:left'>- Inclinez la tablette de gauche à droite et inversement pour sélectionner des différents créneaux horaires.<br>"
+			],
+			"next": false,
+			"index": 16
+		}
+	]
+},
+{
+	"label": "Questions",
+	"next": false,
+	"value": "experience",
+	"children": [
+		{
+			"label": ["<b>Question 1: </b>Pour le secteur ",
+			 			", la densité de présence varie-t-elle au cours de la journée ? Si oui, à quelle heure la densité de présence est-elle la plus forte ? <br>"],
+			"indicator": "<p style='text-align:left; margin-left: 30px;'> <b>Indicator: </b>Presence Density</p><br>",
+			"next": false,
+			"index": 1
+		},
+		{
+			"label": ["<b>Question 2: </b>Pour le secteur ",
+						", le taux de migration varie-t-il au cours de la journée ? Si oui, à quelle heure le taux de migration est-il le plus important ? <br>"],
+			"indicator": "<p style='text-align:left; margin-left: 30px;'> <b>Indicator: </b>Fluctuation Rate</p><br>",
+			"next": false,
+			"index": 2
+		},
+		{
+			"label": ["<b>Question 3: </b>Globalement sur 24h00, est-ce que les secteurs contigus au secteur ",
+					" présentent les mêmes densités de présence ? OUI / NON ; Si la réponse est NON, précisez quelles sont les différentes valeurs de densité des secteurs voisins ? <br>"],
+			"indicator": "<p style='text-align:left; margin-left: 30px;'> <b>Indicator: </b>Presence Density</p><br>",
+			"next": false,
+			"index": 3
+		},
+		{
+			"label": ["<b>Question 4: </b>Globalement sur 24h00, est-ce que les secteurs contigus au secteur ", 
+					" présentent les mêmes taux de migration ? OUI / NON ; Si la réponse est NON, précisez quelles sont les différentes valeurs de taux de migration des secteurs voisins ? <br>"],
+			"indicator": "<p style='text-align:left; margin-left: 30px;'> <b>Indicator: </b>Fluctuation Rate</p><br>",
+			"next": false,
+			"index": 4
+		},
+		{
+			"label": ["<b>Question 5: </b> Pour le secteur ",
+					", quelles sont les plages horaires où la proportion de population mobile est la plus importante ?<br>"],
+			"indicator": "<p style='text-align:left; margin-left: 30px;'> <b>Indicator: </b>Displacement Wheel</p><br>",
+			"next": false,
+			"index": 5
+		},
+		{
+			"label": ["<b>Question 6: </b>Globalement sur 24h00, quels sont les trois principaux modes de déplacements utilisés dans le secteur ", 
+						" ?<br>"],
+			"indicator": "<p style='text-align:left; margin-left: 30px;'> <b>Indicator: </b>Displacement Wheel</p><br>",
+			"next": false,
+			"index": 6
+		},
+		{
+			"label": ["<b>Question 7: </b>En particulier, pendant les horaires où la population mobile est la plus importante, quel est le mode le plus utilisé dans le secteur ", 
+					" ? Choisissez 1 ou 2 plages horaires au maximum pour illustrer votre réponse.<br>"],
+			"indicator": "<p style='text-align:left; margin-left: 30px;'> <b>Indicator: </b>Displacement Wheel</p><br>",
+			"next": false,
+			"index": 7
+		},
+		{
+			"label": ["<b>Question 8: </b>En particulier, pendant les horaires où la population mobile est la moins importante, quel est le mode le plus utilisé dans le secteur ", 
+					" ? Choisissez 1 ou 2 plages horaires au maximum pour illustrer votre réponse.<br>"],
+			"indicator": "<p style='text-align:left; margin-left: 30px;'> <b>Indicator: </b>Displacement Wheel</p><br>",
+			"next": false,
+			"index": 8
+		},
+		{
+			"label": ["<b>Question 9: </b>Est-ce que le secteur ", 
+					" est globalement attractif à l’échelle de l’ensemble de la région de Grenoble ?<br>"],
+			"indicator": "<p style='text-align:left; margin-left: 30px;'> <b>Indicator: </b>Attractiveness</p><br>",
+			"next": false,
+			"index": 9
+		},
+		{
+			"label": ["<b>Question 10: </b>Est-ce que le secteur ", " est plus ou moins attractif que ses secteurs voisins ?<br>"],
+			"indicator": "<p style='text-align:left; margin-left: 30px;'> <b>Indicator: </b>Attractiveness</p><br>",
+			"next": false,
+			"index": 10
+		},
+		{
+			"label": ["<b>Question 11: </b>D’où viennent les flux qui arrivent dans le secteur ", " ?<br>"],
+			"indicator": "<p style='text-align:left; margin-left: 30px;'> <b>Indicator: </b>Flows</p><br>",
+			"next": false,
+			"index": 11
+		},
+		{
+			"label": ["<b>Question 12: </b>D’où vient le flux principal (hors flux interne) qui arrive dans le secteur ", " ?<br>"],
+			"indicator": "<p style='text-align:left; margin-left: 30px;'> <b>Indicator: </b>Flows</p><br>",
+			"next": false,
+			"index": 12
+		},
+			{
+			"label": ["<b>Question 13: </b>Où vont les flux qui partent du secteur ", " ?<br>"],
+			"indicator": "<p style='text-align:left; margin-left: 30px;'> <b>Indicator: </b>Flows</p><br>",
+			"next": false,
+			"index": 13
+		},
+		{
+			"label": ["<b>Question 14: </b>Où va le flux principal (hors flux interne) qui part du secteur ", " ?<br>"],
+			"indicator": "<p style='text-align:left; margin-left: 30px;'> <b>Indicator: </b>Flows</p><br>",
+			"next": false,
+			"index": 14
+		}			
+	]
+}]
